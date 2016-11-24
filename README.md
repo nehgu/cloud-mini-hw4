@@ -1,4 +1,3 @@
-# cloud-mini-hw4
 
 # Spark Streaming
 Integrate Spark with Kafka and do some simple processing for streaming data.
